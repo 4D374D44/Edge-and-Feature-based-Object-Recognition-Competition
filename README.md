@@ -6,7 +6,7 @@
 
 > This is a mini project for CMP5550 class, the aim of this project is
 > to apply edge detection and feature extraction techniques for object
-> recognition, the dataset is a collection of images of 5 different
+> recognition, the [dataset](https://drive.google.com/drive/folders/1ez89RGBRGuNp-U0bL8D4NJxV5yylF5Ob?usp=drive_link) is a collection of images of 5 different
 > abstract shapes with high amount of artificial colored salt-and-pepper
 > noise.
 >
